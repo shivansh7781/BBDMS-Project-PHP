@@ -1,7 +1,7 @@
-# Blood Bank & Donor Management System
+# Lifeline Blood Services
 
 ## Overview
-Blood Bank and Donor Management System is a web-based application designed to facilitate the process of blood donation and management. The system allows individuals willing to donate blood to register themselves, while those in need of blood can search for donors within their city who match their blood type. If a donor is found, the requester receives detailed information about the donor. If no donor is available, the system provides contact information for Life-Saving Contact Persons in major cities.
+Lifeline Blood Services is a web-based application designed to facilitate the process of blood donation and management. The system allows individuals willing to donate blood to register themselves, while those in need of blood can search for donors within their city who match their blood type. If a donor is found, the requester receives detailed information about the donor. If no donor is available, the system provides contact information for Life-Saving Contact Persons in major cities.
 
 ## Features
 - User Registration: Individuals can register as blood donors.
